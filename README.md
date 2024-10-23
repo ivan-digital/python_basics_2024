@@ -17,4 +17,4 @@
 - [12.10.2024](seminar_10_oops.ipynb) -- Дескрипторы и абстракные классы. Наследование, переопределение стандартных операций.
 - [14.10.2024](seminar_11_telegram_bot.ipynb) -- Телеграм бот и его интеграция с чат апи groq. SOLID принципы.
 - [19.10.2024](seminar_12_testing.ipynb) -- Тестирование юнит и mock. DevOps с использованием ansible.
-- [23.10.2024](seminar_13_parsing.ipynb) -- Beautifulsoap парсинг веб страницы, DOM, Selenium.
+- [23.10.2024](seminar_13_parsing.ipynb) -- BeautifulSoup парсинг веб страницы, DOM, Selenium.
